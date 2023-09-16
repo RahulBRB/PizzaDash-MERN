@@ -3,7 +3,7 @@ const pizzas = [
     name: "VEGGIE SUPREME PIZZA",
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 200,
       medium: 340,
@@ -18,7 +18,7 @@ const pizzas = [
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
     
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 200,
       medium: 350,
@@ -33,7 +33,7 @@ const pizzas = [
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
     
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 180,
       medium: 300,
@@ -48,7 +48,7 @@ const pizzas = [
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
     
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 220,
       medium: 370,
@@ -63,7 +63,7 @@ const pizzas = [
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
     
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 240,
       medium: 390,
@@ -78,7 +78,7 @@ const pizzas = [
     base: ["Thin Crust","Wheat Crust","Stuffed Crust","Cauliflower Crust","Deep Dish Crust"],
     sauces:["Tomato Sauce","Pesto Sauce","Alfredo Sauce","Barbecue Sauce","Garlic & Olive oil sauce"],
     
-    variants: ["small", "medium", "large"],
+    varients: ["small", "medium", "large"],
     prices: {
       small: 210,
       medium: 360,
