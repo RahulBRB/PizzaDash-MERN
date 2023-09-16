@@ -7,17 +7,17 @@ export default function Navbar() {
   <div className="container-fluid">
     <ul className="navbar-nav">
       <li className="nav-item">
-        <a className="nav-link active" href="#">Active</a>
+        <a className="nav-link name" href="#">P!zzaDash</a>
       </li>
+      </ul>
+      <ul className="navbar-nav ml-auto">
      <li classNameName="nav-item">
-        <a className="nav-link" href="#">Link</a>
+        <a className="nav-link side" href="#">Login</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">Link</a>
+        <a className="nav-link side" href="#">Cart</a>
       </li>
-      <li className="nav-item">
-        <a className="nav-link disabled" href="#">Disabled</a>
-      </li>
+      
     </ul>
   </div>
 </nav>
