@@ -8,6 +8,18 @@ export default function Pizza({pizza}) {
 
         <div className='flex-container'>
             <div className='w-100'>
+                <p>Base</p>
+            </div>
+
+
+            <div className='w-100'>
+                <p>Sauces</p>
+            </div>
+
+            
+            </div>
+        <div className='flex-container'>
+            <div className='w-100'>
                 <p>Varients</p>
             </div>
 
@@ -17,7 +29,7 @@ export default function Pizza({pizza}) {
             </div>
 
             
-            </div>'
+            </div>
     </div>
   )
 }
