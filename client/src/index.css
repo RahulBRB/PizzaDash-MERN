@@ -8,6 +8,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: 'Montserrat', sans-serif !important;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+
 }
 
 code {
@@ -31,4 +33,13 @@ h1{
 }
 .flex-container{
   display:flex !important;
+}
+.btn{
+  background-color: rgb(0, 119, 255) !important;
+  color:white !important;
+}
+select{
+  box-shadow: none !important;
+  border-color:black !important;
+  
 }
