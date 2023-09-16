@@ -11,7 +11,7 @@ const pizzas = [
     },
     category: "veg",
     image: "https://previews.123rf.com/images/eivaisla/eivaisla1611/eivaisla161100003/66411516-delicious-vegetarian-pizza-isolated-on-white-background-high-angle-shot.jpg",
-    description: "Loaded with assorted veggies, olives, and cheese.",
+    description: "A garden-fresh delight, our Veggie Supreme Pizza is loaded with a colorful assortment of vegetables, briny olives, and melted cheese on a crisp crust. It's a vegetarian paradise in every bite.",
   },
   {
     name: "PEPPER BARBECUE CHICKEN",
@@ -26,7 +26,7 @@ const pizzas = [
     },
     category: "nonveg",
     image: "https://5.imimg.com/data5/HW/SD/MY-29540739/pepper-barbecue-chicken.png",
-    description: "PEPPER BARBECUE",
+    description: "For the barbecue lovers, our Pepper Barbecue Chicken Pizza is a smoky and savory delight. Succulent chicken, zesty peppers, and a barbecue sauce blend harmoniously on our perfectly baked crust.",
   },
   {
     name: "MARGHERITA PIZZA",
@@ -41,7 +41,7 @@ const pizzas = [
     },
     category: "veg",
     image: "https://www.dominos.co.in//files/items/Margherit.jpg",
-    description: "Classic Margherita pizza with tomato, mozzarella, and basil.",
+    description: "Experience the classic Italian flavors with our Margherita Pizza. It features a simple yet elegant combination of ripe tomatoes, creamy mozzarella, and aromatic basil leaves on a thin, crispy crust. A timeless favorite.",
   },
   {
     name: "PEPPERONI PIZZA",
@@ -56,7 +56,7 @@ const pizzas = [
     },
     category: "nonveg",
     image: "https://img.freepik.com/premium-photo/fresh-tasty-pizza-with-pepperoni-isolated-white_136401-2336.jpg",
-    description: "Delicious pepperoni pizza with spicy pepperoni and cheese.",
+    description: "Get ready for a flavor explosion with our Pepperoni Pizza. It's a carnivore's dream, featuring spicy pepperoni slices generously layered over a bed of gooey cheese on our signature crust. Pure indulgence.",
   },
   {
     name: "BBQ CHICKEN PIZZA",
@@ -71,7 +71,7 @@ const pizzas = [
     },
     category: "nonveg",
     image: "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/28/1/FNM_040112-Copy-That-002_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382541346030.jpeg",
-    description: "Savory BBQ chicken pizza with barbecue sauce and cheese.",
+    description: "Dive into a world of smoky goodness with our BBQ Chicken Pizza. Tender pieces of chicken smothered in tangy barbecue sauce, all complemented by a blend of cheeses atop a delectable crust.",
   },
   {
     name: "HAWAIIAN PIZZA",
@@ -86,7 +86,7 @@ const pizzas = [
     },
     category: "nonveg",
     image: "https://media.istockphoto.com/id/479293070/photo/pizza.jpg?s=612x612&w=0&k=20&c=6_FFHbieV8R1VPc7fehj5K6s3vlPt15xk6MeN6rSN_E=",
-    description: "Classic Hawaiian pizza with ham, pineapple, and cheese.",
+    description: "Escape to the tropics with our Hawaiian Pizza. A sweet and savory combination of ham, pineapple, and melted cheese awaits you on a thick and hearty crust. It's a slice of paradise on a plate.",
   },
 ];
 
