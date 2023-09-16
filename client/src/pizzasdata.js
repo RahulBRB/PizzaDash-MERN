@@ -63,7 +63,7 @@ const pizzas = [
           "large": 440
         },
         "category": "nonveg",
-        "image": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-03/hawaiian-pizza.jpg?itok=a1-_QjRA",
+        "image": "https://w7.pngwing.com/pngs/2/723/png-transparent-california-style-pizza-sicilian-pizza-hawaiian-pizza-neapolitan-pizza-pizza-food-recipe-cheese.png",
         "description": "Classic Hawaiian pizza with ham, pineapple, and cheese."
       }   
   ]
