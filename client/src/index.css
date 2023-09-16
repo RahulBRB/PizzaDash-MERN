@@ -24,3 +24,8 @@ code {
 .side{
   color:white !important;
 }
+
+/*Card*/
+h1{
+  font-size:21px !important;
+}
