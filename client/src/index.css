@@ -29,3 +29,6 @@ code {
 h1{
   font-size:21px !important;
 }
+.flex-container{
+  display:flex !important;
+}
