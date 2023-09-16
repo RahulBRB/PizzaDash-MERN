@@ -41,7 +41,7 @@ const pizzas = [
           "large": 420
         },
         "category": "veg",
-        "image": "https://cdn.shopify.com/s/files/1/0191/9978/files/Pizza-Veggie-Supreme-blog.jpg?v=1652775259",
+        "image": "https://previews.123rf.com/images/eivaisla/eivaisla1611/eivaisla161100003/66411516-delicious-vegetarian-pizza-isolated-on-white-background-high-angle-shot.jpg",
         "description": "Loaded with assorted veggies, olives, and cheese."
       },{
         "name": "BBQ CHICKEN PIZZA",
@@ -63,7 +63,7 @@ const pizzas = [
           "large": 440
         },
         "category": "nonveg",
-        "image": "https://w7.pngwing.com/pngs/2/723/png-transparent-california-style-pizza-sicilian-pizza-hawaiian-pizza-neapolitan-pizza-pizza-food-recipe-cheese.png",
+        "image": "https://media.istockphoto.com/id/479293070/photo/pizza.jpg?s=612x612&w=0&k=20&c=6_FFHbieV8R1VPc7fehj5K6s3vlPt15xk6MeN6rSN_E=",
         "description": "Classic Hawaiian pizza with ham, pineapple, and cheese."
       }   
   ]
