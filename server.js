@@ -7,7 +7,7 @@ app.use(express.json());
 
 const pizzasRoute = require('./routes/pizzasRoute')
 
-
+app.use('api/pizzas/',pizzasRoute)
 
 
 app.get("/", (req, res) => {
